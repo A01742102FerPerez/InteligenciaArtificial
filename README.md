@@ -1,19 +1,10 @@
-# Inteligencia artificial avanzada para la ciencia de datos I
+- **`Módulo 2 Análisis y Reporte sobre el desempeño del modelo/`**:
+- Módulo 2 Análisis y Reporte sobre el desempeño del modelo.ipynb
+- Módulo 2 Análisis y Reporte sobre el desempeño del modelo.pdf
 
-Este repositorio cuenta con los materiales y proyectos de mi especialización en inteligencia artificial. 
-Aquí encontrarás una colección de recursos, código y documentación relacionados con técnicas avanzadas de IA,
-como el aprendizaje automático, el aprendizaje profundo, y sus aplicaciones en la ciencia de datos.
+  - **`sección de cambios implementados/`**:
+  - Se agregó el readme
+  - se corrigieron los porcentajes de aprendizaje
+    
 
-- **`Reto/`**: Este folder contiene el reto "Titanic"
 
-- **`Portafolio de Implementación/`**
-  
-           - **`Machine_Learning/`**
-                 - **`RegresionLin_SinFramework/`**:
-                         - RegresionLin_sinFramework_Fer_.ipynb
-                         - Regresionlin-sinframework-fer (1).pdf
-
-    - **`RegresionLin_ConFramework/`**: Este subfolder contiene: Implementación de una técnica de aprendizaje máquina haciendo uso de un framework (.ipynb y su respectivo pdf).
-    - **`ML - Reporte Análisis /`**: Este subfolder contiene: Implementa una técnica o algoritmo de aprendizaje máquina (.ipynb y su respectivo pdf).
-
-  
